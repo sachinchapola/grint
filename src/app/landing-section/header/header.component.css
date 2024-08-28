@@ -1,0 +1,15 @@
+header {
+    /* background-color: black; */
+    margin-top: 34px;
+}
+
+.header-logo img {
+    width: auto;
+    height: 26px;
+}
+
+nav p {
+    font-size: 16px;
+    color: green;
+    letter-spacing: 2px;
+}
