@@ -1,0 +1,39 @@
+.container {
+    margin: 0 auto;
+    padding: 10rem;
+}
+
+
+h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000;
+    letter-spacing: 2px;
+    font-weight: 700;
+    line-height: 2px;
+}
+
+h1 {
+    font-size: 80px;
+    color: #ffffff;
+}
+
+p {
+    font-size: 24px;
+    padding: 0 20px;
+}
+
+.count {
+    font-size: 80px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h5 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.b-right {
+    border-right: 1px solid #fff;
+}
