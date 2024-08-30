@@ -1,6 +1,6 @@
-.container {
+.text-padding {
     margin: 0 auto;
-    padding: 10rem;
+    padding: 10rem 10rem 0 10rem;
 }
 
 
@@ -19,7 +19,7 @@ h1 {
 }
 
 p {
-    font-size: 24px;
+    font-size: 22px;
     padding: 0 20px;
 }
 
@@ -36,4 +36,8 @@ h5 {
 
 .b-right {
     border-right: 1px solid #fff;
+}
+
+.p-bottom {
+    padding-bottom: 10rem;
 }
