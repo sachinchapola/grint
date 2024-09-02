@@ -30,6 +30,10 @@
     transition: all 0.4s ease-in-out;
 }
 
+.m-left {
+    margin-left: 3rem;
+}
+
 .text-gap {
     letter-spacing: 2px;
 }
@@ -49,4 +53,19 @@ h1 {
 
 .container {
     margin-top: 28vh;
+}
+
+@media (max-width:767px) {
+    h3 {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    .m-left {
+        margin-left: 0;
+        text-align: center;
+    }
 }

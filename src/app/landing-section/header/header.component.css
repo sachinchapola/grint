@@ -20,3 +20,9 @@ a {
     letter-spacing: 2px;
     text-decoration: none;
 }
+
+@media (max-width:767px) {
+    header {
+        margin-top: 28px;
+    }
+}
